@@ -1,0 +1,46 @@
+body{
+    background-image: url('images/background.png');
+   font-family: sans-serif;
+}   
+.container{
+    width: 33%;
+    height: auto;
+    background-color: burlywood;
+    margin: auto;
+    margin-top: 3%;
+    text-align: center;
+    padding: 10px;
+}
+.bp{
+    width: 95%;
+    border-bottom: 5px solid brown;
+    margin: auto;
+    padding: 10px;
+    text-align: center;
+}
+h1 h2{
+    font-weight: bold;
+}
+p{
+    text-align: left;
+}
+.picture{
+    width: 95%;
+    border-bottom: 5px solid brown;
+    margin: auto;
+   
+    
+}
+.first-text{
+    display: flex;
+    justify-content: space-between;
+    margin: 15px 50px 15px 50px;
+   
+}
+.t1 t2{
+    flex: 1;
+   
+}
+footer p{
+    text-align: center;
+}
